@@ -13,7 +13,7 @@ freecodecamp
 Basic JavaScript: Golf Code
 
 ## Screenshots
-![Example screenshot](screenshot.jpg)
+![Example screenshot](.img/screenshot.jpg)
 
 ## Technologies
 * JavaScript 
